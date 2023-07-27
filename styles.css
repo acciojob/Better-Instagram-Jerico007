@@ -6,14 +6,14 @@
 }
 
 #div2 {
-  background-image: url("https://picsum.photos/200/300");
+  background-image: url("https://picsum.photos/seed/picsum/200/300");
   height: 300px;
   width: 200px;
   margin: 20px;
 }
 
 #div3 {
-  background-image: url("https://picsum.photos/200/300");
+  background-image: url("https://picsum.photos/200/300?grayscale");
   height: 300px;
   width: 200px;
   margin: 20px;
@@ -27,14 +27,14 @@
 }
 
 #div5 {
-  background-image: url("https://picsum.photos/200/300");
+  background-image: url("https://picsum.photos/200/300.jpg");
   height: 300px;
   width: 200px;
   margin: 20px;
 }
 
 #div6 {
-  background-image: url("https://picsum.photos/200/300");
+  background-image: url("https://picsum.photos/id/102/200/300");
   height: 300px;
   width: 200px;
   margin: 20px;
